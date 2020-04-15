@@ -1,0 +1,12 @@
+{
+    "name": "davis/jtcsv",
+    "require": {
+        "ozdemirburak/json-csv": "^0.3.0"
+    },
+    "authors": [
+        {
+            "name": "Davis Too",
+            "email": "33203305+kipkiruitoo@users.noreply.github.com"
+        }
+    ]
+}
