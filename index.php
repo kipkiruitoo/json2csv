@@ -9,7 +9,7 @@
 
 <body>
     <form action="convert.php" method="post" enctype="multipart/form-data">
-        <input type="file" name="jsonfile" id="">
+        <input type="file" name="json" id="">
         <button type="submit">Submit</button>
     </form>
 </body>
