@@ -37,22 +37,22 @@ if (isset($_FILES['json'])) {
             $array = json_decode($strJsonFileContents, true);
 
             // var_dump($array);
-            $cleaned = [];
-            foreach ($array as $a) {
-                $arr = $a;
-                foreach ($a as $b => $value) {
-                    // if (gettype($b) == "integer") {
-                    $newkey = "q" . $b;
-                    $arr[$newkey] = $arr[$b];
-                    unset($arr[$b]);
-                    // }
-                }
-                array_push($cleaned, $arr);
-            }
+            // $cleaned = [];
+            // foreach ($array as $a) {
+            //     $arr = $a;
+            //     foreach ($a as $b => $value) {
+            //         // if (gettype($b) == "integer") {
+            //         $newkey = "q" . $b;
+            //         $arr[$newkey] = $arr[$b];
+            //         unset($arr[$b]);
+            //         // }
+            //     }
+            //     array_push($cleaned, $arr);
+            // }
 
             // $cleaned = rsort($cleaned);
             // print_r($cleaned);
-            file_put_contents("jsons/cleaned.json", json_encode($cleaned));
+            file_put_contents("jsons/cleaned.json", json_encode($array));
             // if (move_uploaded_file($file_tmp, "jsons/" . $file_name)) {
             // echo "Converting";
 

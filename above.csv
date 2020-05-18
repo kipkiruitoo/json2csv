@@ -1,240 +1,358 @@
-﻿qconsumptiondate,qinterview_id,qinterviewer,qrespondent_id,qdate_of_interview,q1,q3,q4,q5,q14,q15_0,q16,q17_1,q17_2,q17_3,q18_0,q19_0,q20,q21,q22,q23,q14b,q12_2_0,q13_2_0,q6,q7,q8,q9,q11,q12,q13,q11b1,q12b.,q12b.-Comment,q18_1,q19_1,q4-Comment,q18-Comment,q19-Comment,q9-Comment,q10,q15_1
-,2013,"Phoebe Akinyi",84600,"Thu-09-Apr-2020 07:58:54",1,1,5,2,0,5,0,2,2,1,2,3,2,2,23,0,0,1,1,,,,,,,,,,,,,,,,,,
-,2014,"Michael Nderitu",82816,"Thu-09-Apr-2020 07:59:09",1,2,1,,2,3,1,2,1,1,none,1,3,2,27,5,1,,,1,1,premier,1,0,2,1,1,other,"Was not making sales so was not earning",,,,,,,,
-,2015,"Erick Munyao",78523,"Thu-09-Apr-2020 08:00:03",1,1,1,,3,3,8,1,1,1,2,2,2,1,31,20,1,,,0,1,faulu,1,2,12,,4,1,,5,,,,,,,
-,2016,Mary.Muthoni,84679,"Thu-09-Apr-2020 08:02:00",1,1,1,,2,3,3,1,1,1,3,1,3,2,27,2,1,1,,4,2,"elgeiyo marakwet county offices",3,3,,0,3,other,"still the same job",,,,,,,,
-,2017,Judyline  Kyalo,83349,"Thu-09-Apr-2020 08:04:35",1,2,other,1,4,3,3,2,1,1,7,3,3,2,21,5,1,,,1,1,"old mutual insuarance",1,0,1,1,0,5,,other,other,"did not graduate","able to face challenges without giving up","the job i was doing cant allow me to gather people and tell them about my bussines",,,
-,2018,"Jackline Odhiambo",80014,"Thu-09-Apr-2020 08:08:18",1,1,1,,2,3,3,1,1,1,7,2,2,2,22,0,1,,,,1,insurance,1,2,3,0,0,5,,,,,,,,,
-,2019,"Regina Mutunga",85675,"Thu-09-Apr-2020 08:09:38",1,1,4,1,2,4,0,2,1,1,other,5,2,2,24,2,1,,,3,1,vennus,3,3,12,0,2,other,"contract ended",,,,"getting a job",,,,
-,2020,"Lidya Atieno",85999,"Thu-09-Apr-2020 08:09:54",1,1,4,1,1,4,4,2,1,1,other,3,3,2,26,1,0,,,7,2,"African Touch Safaris",other,0,3,12,0,other,"Internship period was over",,,,"communication  and communication skills
-Got  a job and became independent",,"Lecturer from my college connected me not generation",,
-,2021,"Maureen Agesa",78906,"Thu-09-Apr-2020 08:13:51",1,1,2,,1,4,0,2,2,1,other,3,3,2,23,0,1,,,1,1,Madison,2,1,30,1,0,other,"Working conditions were tough",,,,"I took myself to beauty college",,,1,
-,2022,"Steve odhiambo",84339,"Thu-09-Apr-2020 08:15:39",1,2,1,,2,4,0,1,2,1,5,3,3,2,24,2,1,,,8,2,"cleaning company",3,3,12,2,0,other,"contract expired and was not renewed",,,,,,,,
-,2023,Mary.Muthoni,82484,"Thu-09-Apr-2020 08:18:12",1,2,2,,0,3,-98,2,1,1,7,1,3,2,29,1,0,,,0,1,"unison college",3,-98,0,0,-98,other,"still working at that company",,,,,,,,
-,2024,"Jackline Odhiambo",86402,"Thu-09-Apr-2020 08:21:23",1,1,4,2,0,4,0,2,2,2,none,6,2,2,22,0,0,,,,,,,,,,,,,,,,,,,,
-,2025,"Michael Nderitu",86734,"Thu-09-Apr-2020 08:23:36",1,2,1,,1,4,0,2,1,1,none,6,3,2,25,3,0,,1,3,2,pmivectorlink,3,5,3,,0,other,"contract ended",,,,,,,,
-,2026,"Maloba Anne",81300,"Thu-09-Apr-2020 08:24:23",1,1,1,,2,3,3,2,1,1,none,other,3,2,20,2,1,,,3,1,"resolution insurance",1,0,1,1,2,other,"was being paid on commission",,,,,"no clients at the moment",,,
-,2027,"Regina Mutunga",79464,"Thu-09-Apr-2020 08:24:40",1,1,1,,1,3,3,1,1,1,2,3,3,2,21,2,0,,,3,1,"crudentail life assurance",1,0,1,,0,1,,other,,,"renting a house",,,,
-,2028,"Erick Munyao",81629,"Thu-09-Apr-2020 08:29:04",1,1,5,1,2,1,2,2,1,2,5,1,3,1,21,2,1,1,1,3,1,cratornet.com,2,2,,,1,other,stillthere,7,,,,,,1,
-,2029,"Lidya Atieno",85894,"Thu-09-Apr-2020 08:29:14",1,2,5,2,1,5,0,2,2,2,other,6,2,2,21,0,1,,1,,,,,,,,,,,,,,none,,,,
-,2030,"Maureen Agesa",79186,"Thu-09-Apr-2020 08:29:26",1,1,1,,2,3,5,1,1,1,3,2,3,1,27,2,1,,,1,1,"Sunlum Kenya",1,3,6,,0,1,,5,,,,,,,
-,2031,Judyline  Kyalo,86733,"Thu-09-Apr-2020 08:30:41",1,1,4,2,1,4,0,2,2,1,none,6,2,2,23,0,0,,,,,,,,,,,,,,5,,,,,,
-,2032,Mary.Muthoni,85393,"Thu-09-Apr-2020 08:32:19",1,2,5,2,0,5,0,2,2,1,none,other,2,2,21,0,0,,,,,,,,,,,,,,,,,"stopped going to school",,,
-,2033,"Phoebe Akinyi",81192,"Thu-09-Apr-2020 08:32:31",1,1,4,1,1,4,4,2,1,1,1,5,3,1,26,5,0,,,5,2,"casual works",3,3,24,12,0,3,,2,,,,,,,
-,2034,"Jackline Odhiambo",82309,"Thu-09-Apr-2020 08:35:20",1,1,3,,0,3,2,1,1,1,7,2,3,1,23,4,0,,,2,,,,3,6,6,0,5,,,,,,,,,
-,2035,"Maureen Agesa",85648,"Thu-09-Apr-2020 08:38:47",1,2,1,,2,4,0,2,2,1,other,5,3,2,24,1,1,,,1,1,"Urban coffee",1,3,6,3,0,4,,,,,"Experience in working sector",,,,
-,2036,"Erick Munyao",82398,"Thu-09-Apr-2020 08:40:45",1,2,1,,1,4,0,2,2,2,none,6,2,1,25,6,1,,1,1,1,britam,1,0,0,,1,other,"hectic working conditions. no money",,,,,,,,
-,2037,"Regina Mutunga",82126,"Thu-09-Apr-2020 08:44:19",1,1,4,2,0,4,0,2,2,1,none,6,2,2,20,1,0,1,,,,,,,,0,,,,,,,,,,,
-,2038,"Esther Wanjiku",80036,"Thu-09-Apr-2020 08:45:09",1,2,1,,2,3,3,1,1,1,other,3,3,2,25,1,1,,,0,1,CANON,1,0,0,3,0,5,,,,,"HELPED A FRIEND RUN BUSINESS",,,,
-,2039,"Lidya Atieno",80277,"Thu-09-Apr-2020 08:45:12",1,1,1,,1,5,0,2,2,1,other,6,2,2,21,0,1,,1,1,1,Sanlam,1,2,5,,0,other,"left for school",,,,"Have more skills in business than before",,,,
-,2040,"Jackline Odhiambo",79130,"Thu-09-Apr-2020 08:46:07",1,2,5,2,0,5,0,1,1,1,none,6,3,1,23,0,0,,,,,,,,,,,,,,,,,,,,
-,2041,Judyline  Kyalo,81497,"Thu-09-Apr-2020 08:46:57",1,1,1,,2,3,2,2,1,1,2,3,3,2,27,4,1,,,1,1,"faulu kenya",1,4,3,5,1,5,,,,,,,,,
-,2042,"Terry Akinyi",84033,"Thu-09-Apr-2020 08:47:02",1,1,4,2,0,4,0,2,2,1,none,6,3,1,34,6,0,,,,,,,,,,,,,,,,,,,,
-,2043,Mary.Muthoni,86018,"Thu-09-Apr-2020 08:48:38",1,1,1,,1,3,1,2,1,1,1,5,2,1,24,3,1,,,1,1,"big square",1,3,18,0,3,4,,7,,,,,,,
-,2044,"Maloba Anne",81104,"Thu-09-Apr-2020 08:50:06",1,2,4,2,1,3,1,2,1,1,4,1,3,2,35,6,0,,,,,,,,,,,,,,,,,,,,
-,2045,"Michael Nderitu",83412,"Thu-09-Apr-2020 08:51:49",1,2,1,,1,3,3,2,1,1,6,2,3,1,29,3,1,,1,1,1,"prudential insurance",1,0,3,,3,other,"Didn't get paid anything",,,,,,,,
-,2046,"Phoebe Akinyi",83132,"Thu-09-Apr-2020 08:52:57",1,3,5,2,4,5,0,2,1,1,none,6,2,2,22,0,0,,,,,,,,,,,,,,,,,,,,
-,2047,"Maureen Agesa",78371,"Thu-09-Apr-2020 08:53:54",1,1,1,,2,3,4,1,1,1,other,1,2,2,32,0,1,,,1,1,"Platinum credit",1,0,1,,2,1,,5,,,"Team building and magerial, supervisol andcommunicationskills",,,,
-,2048,"Jackline Odhiambo",80515,"Thu-09-Apr-2020 08:55:40",1,1,other,2,0,3,2,1,1,1,7,4,3,1,28,4,0,,,,,,,,,,,,,,,Farming,,,,,
-,2049,"Terry Akinyi",84162,"Thu-09-Apr-2020 08:57:40",1,1,1,,1,3,2,2,1,1,none,1,2,2,22,1,0,1,1,12,2,COOPERATION,3,2,,,0,,,,,,,,,,
-,2050,Mary.Muthoni,85486,"Thu-09-Apr-2020 08:59:53",1,1,1,,1,3,3,1,1,1,2,1,3,2,27,8,1,1,,1,1,"fones direct",1,3,,0,3,other,"still working at the same company",1,,,,,,,
-,2051,"Maloba Anne",85574,"Thu-09-Apr-2020 09:00:46",1,1,4,2,1,4,0,2,2,1,none,3,3,2,20,5,0,,,,,,,,,,,,,,,,,,,,
-,2052,"Erick Munyao",78311,"Thu-09-Apr-2020 09:02:30",1,1,1,,3,4,0,2,2,2,2,6,2,2,28,2,1,,,0,1,"liberty insurance",1,5,36,,0,1,,5,,,,,,,
-,2053,"Phoebe Akinyi",86689,"Thu-09-Apr-2020 09:04:15",1,1,5,2,1,5,0,2,2,1,none,6,2,2,24,4,0,,,,,,,,,,,,,,,,,,,,
-,2054,"Michael Nderitu",77350,"Thu-09-Apr-2020 09:04:45",1,1,1,,2,4,0,2,2,1,none,6,3,2,26,0,1,,1,1,1,"premium credit",1,0,3,,3,other,"didnt get any pay",,,,,,,,
-,2055,"Steve odhiambo",85653,"Thu-09-Apr-2020 09:05:32",1,1,1,,1,5,0,2,1,1,7,3,3,2,28,1,0,,,6,1,"verona hotel",3,3,12,0,3,other,"went to look for abetter job",,,,,,,,
-,2056,"Jackline Odhiambo",79841,"Thu-09-Apr-2020 09:09:18",1,3,1,,0,3,0,1,1,1,5,2,3,2,24,1,0,,,0,2,showroom,3,2,0,,2,1,,,,,,,,,
-,2057,Mary.Muthoni,86029,"Thu-09-Apr-2020 09:10:26",1,1,1,,1,4,0,2,2,1,7,6,2,2,30,1,1,,,3,2,inuka,3,3,6,0,0,other,"quit due to delayed payments",,,,,,,,
-,2058,"Regina Mutunga",77756,"Thu-09-Apr-2020 09:10:47",1,1,1,,1,3,5,2,1,1,other,1,3,2,31,0,1,,1,1,1,"liberty insurance",1,2,24,,4,,,,,,"applied communication skills",,,,
-,2059,"Erick Munyao",81380,"Thu-09-Apr-2020 09:12:56",1,2,2,,4,4,0,2,2,2,1,3,3,1,22,3,0,,,7,2,"solid rock bar",2,1,3,,0,1,,,,,,,,2,
-,2060,"Terry Akinyi",79769,"Thu-09-Apr-2020 09:14:09",1,1,3,,1,3,3,2,1,1,6,other,3,1,29,3,0,,1,1,,,,3,24,,0,,,2,,,,"Business has really been affected",,,
-,2061,"Maloba Anne",83604,"Thu-09-Apr-2020 09:14:21",1,1,4,1,3,4,0,1,1,1,none,5,3,1,25,5,1,,,1,1,"premier micro finance",1,1,1,0,0,4,,,,,,,,,
-,2062,"Esther Wanjiku",83751,"Thu-09-Apr-2020 09:15:35",1,1,1,,1,3,1,2,2,1,7,3,2,1,21,0,0,,,0,1,"MADISON INSURANCE",1,1,4,0,0,,,,,,,,,,
-,2063,"Phoebe Akinyi",80885,"Thu-09-Apr-2020 09:18:09",1,1,1,,3,4,3,2,1,1,none,2,3,1,26,2,1,,,1,1,"jubilee insurance",1,0,2,1,3,4,,,,,,,,,
-,2064,"Michael Nderitu",86700,"Thu-09-Apr-2020 09:19:53",1,2,1,,2,3,4,2,1,1,none,1,3,1,30,5,0,1,1,4,1,safaricom,2,4,,,2,,,,,,,,,2,
-,2065,"Lidya Atieno",81702,"Thu-09-Apr-2020 09:19:53",1,1,1,,2,3,4,2,1,1,other,2,2,2,26,4,1,,,0,1,Liberty,1,0,1,0,2,5,,,,,"Got a job 
-Got skills",,,,
-,2066,Mary.Muthoni,78519,"Thu-09-Apr-2020 09:21:14",1,1,1,,1,4,3,1,1,1,7,1,3,2,25,3,1,1,,0.5,1,NCBA,1,3,,0,0,other,"still working there",3,,,,,,,
-,2067,"Jackline Odhiambo",84058,"Thu-09-Apr-2020 09:22:34",1,1,1,,1,3,5,1,1,1,7,2,3,2,29,1,1,,,1,1,fosthini,1,5,7,,3,1,,2,,,,,,,
-,2068,"Terry Akinyi",78180,"Thu-09-Apr-2020 09:22:34",1,1,1,,3,3,3,2,1,1,7,3,3,1,27,1,1,,,1,1,FAULU,1,3,3,,3,1,,5,,,,,,,
-,2069,"Maloba Anne",81740,"Thu-09-Apr-2020 09:27:03",1,1,1,,3,4,4,2,1,1,none,3,3,1,24,3,0,,,2,1,"jambo coffee",2,4,2,,3,1,,,,,,,,2,
-,2070,Judyline  Kyalo,78119,"Thu-09-Apr-2020 09:28:11",1,1,1,,4,3,8,1,1,1,5,1,3,1,27,5,1,,,1,1,Barclays,1,4,6,,3,1,,other,4,,"intending to implement a financial literacy scheme",,,,
-,2071,"Esther Wanjiku",82874,"Thu-09-Apr-2020 09:29:49",1,1,1,,3,3,-98,2,1,1,other,2,2,2,23,0,1,,,0,1,"MADISON GROUP",1,0,1,0,0,other,"THE WORK WAS TOUGH",,,,"HAVE IMPROVED MY SKILLS",,,,
-,2072,"Phoebe Akinyi",81839,"Thu-09-Apr-2020 09:30:57",1,1,3,,1,3,3,2,1,1,5,1,3,1,25,3,0,,,3,,,,4,5,,0,1,,6,,,,,,,
-,2073,"Steve odhiambo",80498,"Thu-09-Apr-2020 09:34:43",1,1,4,2,0,4,0,2,2,2,none,3,2,2,25,1,0,1,1,,,,,,,,,,,,,,,,,,
-,2074,"Regina Mutunga",81477,"Thu-09-Apr-2020 09:35:22",1,1,4,1,3,4,0,2,1,1,7,5,2,1,27,5,0,,,4,2,"huduma number",3,4,2,3,0,other,"contract ended",,,,,,,,
-,2075,"Jackline Odhiambo",86512,"Thu-09-Apr-2020 09:35:56",1,2,4,2,0,4,0,1,1,1,none,6,3,2,20,0,0,,,,,,,,,,,,,,,,,,,,
-,2076,"Mary Mugoiri",81714,"Thu-09-Apr-2020 09:37:58",1,2,1,,3,4,0,2,1,1,7,5,3,1,23,2,1,,,1,2,britam,1,2,6,1,2,4,,,,,,,,,
-,2077,"Maureen Agesa",86175,"Thu-09-Apr-2020 09:38:21",1,1,2,,1,3,4,2,1,1,6,1,2,1,26,1,0,,,0,1,Carrefour,3,4,0,0,1,other,"Still in the same job",,,,,,,,
-,2078,"Lidya Atieno",78934,"Thu-09-Apr-2020 09:38:38",1,1,1,,3,4,0,1,1,1,other,5,2,1,28,4,1,,,1,1,prudential,1,2,36,3,4,other,"my mentor had been transferred and my daily sales went down",7,,,"paid school fees for another course",,,,
-,2079,Mary.Muthoni,77942,"Thu-09-Apr-2020 09:39:16",1,1,1,,1,2,4,1,1,1,2,1,3,1,33,6,1,,,3,1,"prudential insurance",1,2,2,0,0,other,"i quit because job was hard",,,,,,,,
-,2080,"Erick Munyao",82492,"Thu-09-Apr-2020 09:39:17",1,3,4,2,0,4,0,2,2,2,none,6,2,2,20,1,0,1,,,,,,,,0,,,,,,,,,,,
-,2081,"Esther Wanjiku",86578,"Thu-09-Apr-2020 09:42:15",1,1,3,,1,3,3,2,1,1,5,1,3,1,21,0,0,,,2,,,,3,5,0,3,,,other,,,"IMPROVEMENT OF SKILLS.",,,,
-,2082,Judyline  Kyalo,84615,"Thu-09-Apr-2020 09:43:32",1,1,1,,2,4,0,2,1,1,other,3,3,2,28,1,1,,,1,1,"multy choice",1,3,1,12,0,3,,,,,"i have learned how to deal with new customers and team work with workmates",,,,
-,2083,"Phoebe Akinyi",83651,"Thu-09-Apr-2020 09:46:32",1,1,1,,3,3,2,1,1,1,5,3,3,1,22,1,1,,,1,,"CIC  INSURANCE",1,2,5,,0,1,,,,,,,,,
-,2084,Mary.Muthoni,81738,"Thu-09-Apr-2020 09:46:57",1,1,1,,1,3,2,2,1,1,2,1,1,1,27,7,1,1,1,3,1,"esther communications",3,2,,,2,other,"still working there",,,,,,,,
-,2085,"Maureen Agesa",78128,"Thu-09-Apr-2020 09:46:59",1,1,1,,2,3,4,2,1,1,5,2,3,1,25,2,1,,,1,1,CIC,1,3,3,4,0,other,"Salary was small",other,,,"I have a family",,,,
-,2086,"Steve odhiambo",81782,"Thu-09-Apr-2020 09:48:13",1,1,5,2,0,3,4,2,2,1,5,2,3,1,30,2,0,1,,,,,,,,0,,,,1,,,,,,,5
-,2087,"Mary Mugoiri",79002,"Thu-09-Apr-2020 09:52:04",1,1,3,,1,3,2,2,2,1,2,3,3,2,30,2,0,,,0,,,,2,48,0,2,other,"still working",,,,,,,,
-,2088,"Maloba Anne",77855,"Thu-09-Apr-2020 09:52:06",1,1,1,,3,4,2,2,1,1,none,1,3,1,32,0,1,,,1,1,"CIC insuarance",1,0,2,2,0,4,,,,,,,,,
-,2089,"Esther Wanjiku",84613,"Thu-09-Apr-2020 09:52:45",1,1,1,,2,3,-98,2,1,1,other,3,3,1,27,1,1,,,0,1,"HEALTH U",1,0,0,0,0,other,"THEY NEVER GOT BACK TO ME",,,,"IMPROVED ON CUSTOMER SERVICE",,,,
-,2090,Mary.Muthoni,85540,"Thu-09-Apr-2020 09:55:28",1,1,1,,1,4,0,2,2,1,7,5,2,1,24,3,1,,1,0,1,"mobisol company",1,0,6,,1,other,"they never paid us.",,,,,,,,
-,2091,"Jackline Odhiambo",84507,"Thu-09-Apr-2020 09:55:46",1,1,3,,1,3,7,1,1,1,4,3,3,1,29,6,1,,,2,,,,7,0,,0,1,,7,,,,,,,
-,2092,"Michael Nderitu",80692,"Thu-09-Apr-2020 09:57:40",1,1,1,,2,3,2,2,2,1,5,1,3,1,28,3,0,,,6,2,"worked at a cyber",3,2,12,1,2,2,,1,,,,,,,
-,2093,"Phoebe Akinyi",84298,"Thu-09-Apr-2020 10:01:56",1,1,1,,2,3,5,1,1,1,2,1,1,1,23,4,1,,,2,1,"choppies Supermarket",1,3,24,,0,1,,7,,,,,,,
-,2094,"Terry Akinyi",85932,"Thu-09-Apr-2020 10:02:29",1,1,1,,1,3,3,1,1,1,none,5,3,1,21,0,1,,1,5,2,"BIG SQUARE",1,3,12,,1,,,,,,,,,,
-,2095,"Maloba Anne",78816,"Thu-09-Apr-2020 10:02:55",1,2,1,,4,5,0,1,1,1,none,6,3,2,23,1,1,,,2,1,"pioneer insuarance",1,1,3,0,0,other,"went back to school",,,,,,,,
-,2096,"Steve odhiambo",80592,"Thu-09-Apr-2020 10:03:46",1,1,1,,2,3,5,1,2,1,7,1,2,2,26,2,1,,,0,1,Britam,1,0,3,1,3,other,"didnt see any future because was never paid",,,,,,,,
-,2097,Mary.Muthoni,85859,"Thu-09-Apr-2020 10:05:32",1,1,1,,1,4,0,2,1,1,7,3,3,2,29,4,1,1,1,2,2,"ruaka primary",3,3,,,1,other,"still working there",,,,,,,,
-,2098,"Erick Munyao",82168,"Thu-09-Apr-2020 10:06:49",1,3,4,2,0,3,1,2,2,2,none,6,3,1,22,5,0,1,1,,,,,,,,,,,,,,,,,,
-,2099,"Lidya Atieno",85719,"Thu-09-Apr-2020 10:07:01",1,1,5,2,0,4,0,2,2,1,none,6,2,2,24,0,0,,,,,,,,,,,,,,,,,,,,
-,2100,"Mary Mugoiri",77983,"Thu-09-Apr-2020 10:07:05",1,1,1,,5,3,6,2,1,1,7,1,3,1,28,3,1,,,0,1,CIC,1,3,8,3,0,5,,3,,,,,,,
-,2101,"Jackline Odhiambo",78447,"Thu-09-Apr-2020 10:07:13",1,1,1,,1,5,0,1,1,1,7,6,3,2,26,5,1,,,,1,"jubilee insurance",1,1,0,12,0,4,,,,,,,,,
-,2102,"Michael Nderitu",85159,"Thu-09-Apr-2020 10:08:48",1,1,1,,2,3,4,2,1,1,none,1,2,1,31,2,0,,1,12,1,"furniture palace",3,4,18,,3,,,,,,,,,,
-,2103,"Terry Akinyi",83192,"Thu-09-Apr-2020 10:10:06",1,1,1,,1,4,0,2,2,1,none,6,2,1,27,1,1,,1,1,2,MIKAI,2,0,3,,0,2,,,,,,,,2,
-,2104,"Terry Akinyi",85484,"Thu-09-Apr-2020 10:15:36",1,1,1,,2,4,0,2,2,1,other,5,2,1,27,1,1,,1,1,1,"PHONE EXPRESS",1,3,12,,0,,,,,,"hospital bills",,,,
-,2105,Judyline  Kyalo,84570,"Thu-09-Apr-2020 10:15:57",1,1,2,,3,3,4,2,1,1,other,3,3,2,28,5,1,,,2,1,"simply food",1,2,36,3,3,5,,,,,"my negotiation skills have really improve over the time",,,,
-,2106,"Maloba Anne",86657,"Thu-09-Apr-2020 10:17:59",1,1,4,2,4,3,3,2,1,1,5,5,3,1,25,0,0,,,,,,,,,,,,,1,,,,,,,
-,2107,"Michael Nderitu",81809,"Thu-09-Apr-2020 10:18:38",1,1,1,,1,4,0,2,2,1,none,6,3,1,20,5,0,,1,1,2,univiler,2,3,12,,0,other,"was on attachment",,,,,,,2,
-,2108,"Steve odhiambo",83987,"Thu-09-Apr-2020 10:20:30",1,1,3,,1,3,1,2,1,1,5,2,3,1,26,2,0,1,,1,,,,1,,0,4,other,"still in the same job",,,,,,,,
-,2109,"Mary Mugoiri",79617,"Thu-09-Apr-2020 10:20:37",1,1,5,1,0,5,0,2,2,1,none,5,3,2,24,0,0,,,12,2,"online writting",2,1,12,0,0,other,"still working",,,,,,,2,
-,2110,"Regina Mutunga",84468,"Thu-09-Apr-2020 10:22:25",1,1,5,2,0,5,0,2,2,1,none,6,2,1,24,2,0,,,,,,,,,,,,,,,,,,,,
-,2111,"Jackline Odhiambo",78897,"Thu-09-Apr-2020 10:23:04",1,3,1,,0,3,3,2,1,1,6,2,3,2,29,2,0,,,1,2,nutritionist,3,0,0,1,0,5,,7,,,,,,,
-,2112,Mary.Muthoni,80240,"Thu-09-Apr-2020 10:25:04",1,2,1,,1,4,0,1,1,1,none,5,2,2,22,3,1,,1,1,2,"mathais supermarket",3,3,1,,0,5,,,,,,,,,
-,2113,"Erick Munyao",86305,"Thu-09-Apr-2020 10:27:00",1,2,1,,1,4,0,2,2,2,2,6,3,2,26,5,0,,1,2,2,"teaching in marakwet",3,2,6,,3,5,,7,,,,,,,
-,2114,"Maloba Anne",81120,"Thu-09-Apr-2020 10:28:39",1,1,1,,3,3,4,2,1,1,5,1,2,2,26,0,0,,,3,1,"daima milk",3,4,0,,4,1,,,,,,,,,
-,2115,Judyline  Kyalo,83160,"Thu-09-Apr-2020 10:30:21",1,3,other,2,1,3,4,2,1,1,none,1,3,2,28,0,0,,,,,,,,,,,,,,,"i was sick i did not graduate or graduate",,,,,
-,2116,"Maureen Agesa",82962,"Thu-09-Apr-2020 10:31:43",1,2,1,,2,4,0,1,1,1,other,5,3,2,31,2,0,,,1,2,"Dimples Investment",3,2,4,2,2,other,"It was far from where I stayed",,,,"I'm about to start my business corona has affected",,,,
-,2117,"Regina Mutunga",84597,"Thu-09-Apr-2020 10:32:32",1,1,1,,2,5,8,1,1,1,2,2,3,1,28,4,0,,,3,2,"kappa oil",3,6,24,,0,1,,other,,,"team work and personal responsibility",,,,
-,2118,"Jackline Odhiambo",78526,"Thu-09-Apr-2020 10:38:02",1,1,1,,2,3,4,2,1,1,7,other,3,1,25,0,1,,,3,1,sales,1,3,2,2,0,4,,,,,,"things are at stand still",,,5
-,2119,Mary.Muthoni,86702,"Thu-09-Apr-2020 10:38:12",1,1,2,,1,4,0,2,2,1,none,5,2,1,24,4,0,,1,0,2,"ateam security",3,3,1,,3,5,,,,,,,,,
-,2120,"Maureen Agesa",82563,"Thu-09-Apr-2020 10:39:00",1,1,other,2,0,4,0,2,2,1,other,6,3,2,27,0,0,,,,,,,,,,,,,,,"I got an internship","I helped women in my community to save",,,,
-,2121,"Esther Wanjiku",78450,"Thu-09-Apr-2020 10:43:27",1,1,1,,2,3,3,2,1,1,other,1,2,1,26,2,1,,,2,1,"JUBILEE INSURANCE",1,-98,20,12,0,5,,,,,"IMPROVED ON  MY SKILLS",,,,
-,2122,"Maloba Anne",86104,"Thu-09-Apr-2020 10:47:25",1,1,1,,2,3,2,1,1,1,1,3,3,1,24,4,1,,,5,1,"golden marketing",2,3,4,0,3,5,,4,,,,,,1,
-,2123,Mary.Muthoni,86621,"Thu-09-Apr-2020 10:48:36",1,2,1,,0,3,0,2,1,1,7,3,3,2,27,2,0,1,,3,2,"jumuia resort",3,3,,0,0,other,"still working",,,,,,,,
-,2124,"Terry Akinyi",78236,"Thu-09-Apr-2020 10:48:42",1,1,1,,2,4,2,1,1,1,none,5,2,2,23,2,1,,1,1,1,PIONEER,1,0,4,,0,,,,,,,,,,
-,2125,Judyline  Kyalo,86598,"Thu-09-Apr-2020 10:50:02",1,1,1,,1,3,4,2,1,1,other,1,2,2,30,5,1,,,2,2,"sai pharmaceuticals",2,4,7,,3,1,,,,,"marketing skills have helped me deal with different clients",,,2,
-,2126,"Jackline Odhiambo",77368,"Thu-09-Apr-2020 10:52:38",1,4,1,,0,5,0,1,1,1,none,6,3,1,23,0,0,,,0,2,HOSPITAL,3,0,3,,0,1,,,,,,,,,
-,2127,"Mary Mugoiri",83521,"Thu-09-Apr-2020 10:53:21",1,1,1,,2,4,0,2,1,1,none,5,3,1,23,5,1,,,0,1,"platinum credit",1,3,3,,0,1,,,,,,,,,
-,2128,"Steve odhiambo",78695,"Thu-09-Apr-2020 10:53:37",1,1,4,2,0,4,0,2,2,1,other,3,3,2,23,0,0,1,1,,,,,,,,,,,,,,"have good negotiation skills that can help me to be independent",,,,
-,2129,"Phoebe Akinyi",83595,"Thu-09-Apr-2020 10:58:03",1,1,1,,2,4,0,2,1,1,none,6,3,2,24,0,1,,,5,1,"jubilee Insuarance",1,1,4,12,1,5,,,,,,,,,
-,2130,"Mary Mugoiri",82807,"Thu-09-Apr-2020 11:03:07",1,2,other,2,0,5,0,2,1,1,none,6,2,2,22,0,0,,,,,,,,,,,,,,,"joined NYS",,,,,
-,2131,"Maureen Agesa",84253,"Thu-09-Apr-2020 11:03:08",1,1,1,,1,3,3,1,1,2,other,3,2,2,28,2,1,1,,2,1,Java,1,3,,0,2,other,"Still in the same job",,,,"Promotion at work",,,,
-,2132,"Michael Nderitu",77818,"Thu-09-Apr-2020 11:03:12",1,1,1,,5,3,5,1,1,1,7,1,2,2,25,2,1,,,1,1,faulu,1,1,1,1,0,other,"pay was low",,,,,,,,
-,2133,"Esther Wanjiku",81291,"Thu-09-Apr-2020 11:03:18",1,1,1,,2,3,3,2,1,1,other,3,3,2,21,3,1,,,2,1,"MADISON INSURANCE",1,0,4,0,3,5,,7,,,"IMPROVED ON CUSTOMER HANDLING SKILLS",,,,
-,2134,"Maloba Anne",82524,"Thu-09-Apr-2020 11:03:49",1,1,4,2,3,5,0,2,1,1,5,3,3,1,26,2,1,,,,,,,,,,,,,,,,,,,,
-,2135,"Steve odhiambo",79677,"Thu-09-Apr-2020 11:04:44",1,1,1,,2,5,3,1,1,1,6,2,3,1,29,0,1,,,0,2,"Magnet ventures",2,3,3,3,3,3,,,,,,,,2,3
-,2136,Mary.Muthoni,79190,"Thu-09-Apr-2020 11:05:14",1,1,1,,2,3,3,2,1,1,7,1,2,1,27,0,1,,,3,1,"kongooni camp",3,3,1,2,0,other,"unfavourable conditions",,,,,,,,
-,2137,"Lidya Atieno",79972,"Thu-09-Apr-2020 11:10:23",1,1,1,,2,3,8,1,1,1,2,1,2,1,40,4,1,,,4,2,Sanlam,3,8,4,0,8,other,"no consistency in payment",1,,,,,,,
-,2138,"Phoebe Akinyi",84849,"Thu-09-Apr-2020 11:12:20",1,1,1,,2,3,4,1,1,1,7,1,3,1,28,3,1,,,2,1,"WHITE ROSE DRY CLEANERS",1,3,48,,4,1,,,,,,,,,
-,2139,"Mary Mugoiri",84945,"Thu-09-Apr-2020 11:13:01",1,1,1,,1,3,3,1,1,1,1,1,2,2,28,2,1,,,0,1,subway,1,3,36,0,0,other,"still in the same work",,,,,,,,
-,2140,"Maureen Agesa",77553,"Thu-09-Apr-2020 11:14:09",1,1,other,1,2,2,2,1,1,1,other,1,3,2,23,4,1,,,12,1,"Jubilee Insurance",1,2,15,12,0,other,"The contract ended",,,Attachment,"Skills on customer care",,,,
-,2141,"Maloba Anne",84978,"Thu-09-Apr-2020 11:15:08",1,2,1,,2,3,3,1,1,1,5,1,3,1,25,2,1,,,1,1,"Victory farm",1,2,2,1,1,4,,,,,,,,,5
-,2142,Mary.Muthoni,85403,"Thu-09-Apr-2020 11:17:01",1,1,2,,1,3,3,1,1,1,7,1,3,2,23,3,1,1,,0,1,"pizza hut",1,3,,0,0,,,,,,,,,,
-,2143,"Jackline Odhiambo",79572,"Thu-09-Apr-2020 11:17:28",1,1,1,,1,5,0,1,1,1,7,6,3,1,24,0,1,,,1,1,SANLAM,1,3,0,1,0,5,,,,,,,,,
-,2144,"Steve odhiambo",86458,"Thu-09-Apr-2020 11:17:59",1,1,5,2,0,5,0,2,2,2,none,3,3,2,23,0,0,,,,,,,,,,,,,,,,,,,,
-,2145,"Esther Wanjiku",79590,"Thu-09-Apr-2020 11:20:27",1,1,1,,1,4,0,2,1,1,other,6,3,1,23,2,0,,,0,2,"KFCD KENYA FILM CLASSIFICATION BOARD",2,-98,2,0,0,other,"BECAUSE OF SCHOOL",,,,"IMPROVEMENT ON SKILLS",,,2,
-,2146,"Phoebe Akinyi",79364,"Thu-09-Apr-2020 11:20:57",1,1,5,2,0,4,0,2,2,1,none,6,2,2,25,1,0,,,,,,,,,,,,,,,,,,,,
-,2147,Judyline  Kyalo,82466,"Thu-09-Apr-2020 11:21:48",1,1,1,,1,3,4,1,1,1,1,1,3,1,24,6,0,,,6,2,"kabams wwater project",3,2,4,0,2,other,"am still working with them",,,,,,,,
-,2148,Mary.Muthoni,79657,"Thu-09-Apr-2020 11:22:22",1,1,1,,0,4,0,2,2,1,none,5,2,1,25,0,0,,1,2,2,paul,3,2,1,,1,other,"salary disagreement",,,,,,,,
-,2149,"Mary Mugoiri",78954,"Thu-09-Apr-2020 11:23:45",1,1,1,,2,5,0,2,2,1,none,3,2,1,34,0,1,,,1,1,UAP,1,0,1,0,2,other,"was joining college",,,,,,,,
-,2150,"Maloba Anne",82023,"Thu-09-Apr-2020 11:24:20",1,2,3,,1,4,0,1,1,1,5,2,3,2,27,3,0,,,9,,,,2,9,0,1,2,,,,,,,,,
-,2151,"Michael Nderitu",78115,"Thu-09-Apr-2020 11:25:39",1,2,1,,2,4,0,2,2,1,none,3,3,1,27,1,0,,,2,1,"nip nap diapers",2,2,24,6,0,3,,,,,,,,2,
-,2152,"Maureen Agesa",86291,"Thu-09-Apr-2020 11:26:21",1,1,4,2,1,4,0,2,1,1,none,5,2,2,23,0,0,1,,,,,,,,0,,,,,,,,,,,
-,2153,"Lidya Atieno",81285,"Thu-09-Apr-2020 11:28:45",1,1,5,2,0,4,0,2,1,1,none,6,2,2,20,2,0,,,,,,,,,,,,,,,,,,,,
-,2154,"Erick Munyao",81727,"Thu-09-Apr-2020 11:30:03",1,1,1,,1,3,2,2,2,1,1,3,3,1,26,4,0,1,1,3,1,"sanlam insurance",3,3,,,2,other,"still there",2,,,,,,,
-,2155,Mary.Muthoni,77838,"Thu-09-Apr-2020 11:30:16",1,1,1,,1,3,2,2,1,1,7,1,2,2,23,1,1,,,3,1,"cic insurance",1,2,3,6,0,other,"wasn't able to reach target",,,,,,,,
-,2156,"Esther Wanjiku",80265,"Thu-09-Apr-2020 11:35:33",1,1,4,2,0,4,0,2,2,2,none,6,3,2,22,0,0,,,,,,,,,,,,,,,,,,,,
-,2157,Mary.Muthoni,84764,"Thu-09-Apr-2020 11:36:48",1,1,1,,0,4,0,1,1,1,7,5,2,2,24,8,0,,1,0,2,YDX,3,3,4,,3,other,"contract expired",5,,,,,,,
-,2158,"Jackline Odhiambo",83289,"Thu-09-Apr-2020 11:37:27",1,1,1,,2,3,4,2,1,1,7,2,2,2,27,1,1,,,,1,CIC,1,0,1,2,0,5,,,,,,,,,
-,2159,"Maureen Agesa",82327,"Thu-09-Apr-2020 11:37:35",1,1,1,,1,4,0,2,1,1,other,5,3,1,25,2,0,,,3,1,"Lake Nakuru Lodge",3,3,11,0,0,other,"Contract ended",,,,"I've been able to identified business on online academic writing",,,,
-,2160,"Phoebe Akinyi",83760,"Thu-09-Apr-2020 11:37:39",1,1,3,,1,4,2,2,1,1,5,3,3,2,24,0,0,,,1,,,,2,3,0,0,,,,,,,,,,
-,2161,"Steve odhiambo",82009,"Thu-09-Apr-2020 11:41:49",1,1,4,2,0,4,0,2,1,1,7,3,3,1,29,5,0,,,,,,,,,,,,,,,,,,,,
-,2162,Judyline  Kyalo,84010,"Thu-09-Apr-2020 11:44:28",1,2,other,1,1,1,3,2,1,1,2,3,3,2,35,3,1,,,1,1,"molty diapers company",1,3,6,,2,1,,7,,"i didnt graduate",,,,,
-,2163,"Regina Mutunga",78340,"Thu-09-Apr-2020 11:44:33",1,1,1,,1,4,0,2,2,1,5,5,2,2,24,1,1,,,1,1,"britam insurance",1,0,3,1,3,5,,,,,,,,,
-,2164,"Lidya Atieno",82420,"Thu-09-Apr-2020 11:44:42",1,1,1,,1,4,0,2,1,1,7,3,3,1,31,2,1,,1,0,1,Faulu,1,3,6,,2,other,"stopped because of covid 19",other,,,"Bought some assets in the house",,,,
-,2165,"Erick Munyao",85045,"Thu-09-Apr-2020 11:44:51",1,2,1,,1,3,4,2,2,1,5,1,3,2,27,2,0,1,1,12,2,pharmacy,3,4,,,3,,,2,,,,,,,
-,2166,"Michael Nderitu",86031,"Thu-09-Apr-2020 11:47:46",1,1,2,,1,3,1,2,2,1,none,6,3,2,31,3,0,,1,1,2,"casual laborer",3,1,0,,1,,,,,,,,,,
-,2167,"Mary Mugoiri",81302,"Thu-09-Apr-2020 11:47:53",1,1,1,,2,4,0,2,1,1,5,5,2,1,23,1,1,,,0,1,"ICEA lions",1,2,6,6,3,4,,,,,,,,,
-,2168,"Maureen Agesa",78655,"Thu-09-Apr-2020 11:49:09",1,1,1,,2,3,4,1,1,1,2,other,3,1,28,1,2,,,1,1,"Platinum Credit",1,3,15,5,0,other,"Went back to school",5,,,,"I have lost my job but have my business",,,
-,2169,"Esther Wanjiku",83379,"Thu-09-Apr-2020 11:49:29",1,1,1,,3,3,2,2,2,1,other,3,3,2,23,1,1,,,0,1,"PRUDENTIAL INSURANCE",1,0,1,0,0,5,,,,,"GAINED CONFIDENCE, IMPROVED ON SKILLS",,,,
-,2170,"Jackline Odhiambo",80246,"Thu-09-Apr-2020 11:52:08",1,1,1,,1,3,5,1,1,1,5,2,3,1,25,4,1,,,6,1,BUSINESS,1,2,3,6,3,5,,7,,,,,,,
-,2171,"Maloba Anne",86741,"Thu-09-Apr-2020 11:52:15",1,1,4,2,3,4,0,1,1,1,none,5,3,2,26,3,1,,,,,,,,,,,,,,,,,,,,
-,2172,"Terry Akinyi",78532,"Thu-09-Apr-2020 11:54:03",1,1,1,,3,3,4,2,2,1,7,1,2,1,27,4,1,,,1,1,SAMLAM,1,3,6,12,0,5,,,,,,,,,
-,2173,"Regina Mutunga",83690,"Thu-09-Apr-2020 11:55:10",1,1,1,,3,3,5,1,1,1,other,2,2,1,22,0,1,,,1,1,faulu,1,1,4,,0,1,,,,,"acquired skills",,,,
-,2174,Mary.Muthoni,79544,"Thu-09-Apr-2020 11:55:23",1,2,4,2,0,5,0,2,2,1,none,5,2,2,26,1,0,1,,,,,,,,0,,,,,,,,,,,
-,2175,"Esther Wanjiku",86648,"Thu-09-Apr-2020 11:56:01",1,1,1,,2,3,3,2,1,1,other,1,2,2,21,0,1,,,0,1,"PASSION STORES",1,3,1,,0,1,,,,,"GAINED CONFIDENCE",,,,
-,2176,"Erick Munyao",79336,"Thu-09-Apr-2020 11:56:16",1,2,5,2,0,5,0,2,2,1,other,6,2,2,26,6,0,1,1,,,,,,,,,,,,,,"still in school",,,,
-,2177,"Phoebe Akinyi",81090,"Thu-09-Apr-2020 11:56:26",1,1,3,,1,3,3,2,2,2,5,3,2,2,27,10,0,,,24,,,,3,3,0,0,,,,,,,,,,
-,2178,"Maureen Agesa",80746,"Thu-09-Apr-2020 11:58:43",1,1,4,2,0,4,0,2,2,1,none,6,3,2,21,0,0,,,,,,,,,,,,,,,,,,,,
-,2179,"Lidya Atieno",85216,"Thu-09-Apr-2020 12:01:09",1,1,3,,1,4,0,2,1,1,5,6,3,2,23,8,0,,1,2,,,,1,6,,2,other,"went for further studies",,,,,,,,
-,2180,Judyline  Kyalo,77488,"Thu-09-Apr-2020 12:01:30",1,1,1,,2,4,0,2,2,1,7,5,2,1,30,3,1,,,1,2,"premier credit",1,3,1,1,3,other,"am still working with them",,,,,,,,
-,2181,"Steve odhiambo",83016,"Thu-09-Apr-2020 12:02:40",1,1,1,,1,4,0,2,2,1,none,3,3,2,23,1,1,,1,0,1,"monarch insurance company",1,0,3,,3,other,"was wasting my time and no payment",,,,,,,,
-,2182,"Michael Nderitu",83433,"Thu-09-Apr-2020 12:03:55",1,1,5,2,0,5,0,2,2,1,none,6,3,2,21,0,0,1,,,,,,,,2,,,,,,,,,,,
-,2183,"Mary Mugoiri",86493,"Thu-09-Apr-2020 12:04:19",1,1,5,1,1,5,3,2,1,1,7,5,3,2,21,0,0,,,2,1,"true blaq",3,3,4,0,0,3,,,other,,,"no longer in school",,,
-,2184,Mary.Muthoni,83698,"Thu-09-Apr-2020 12:07:49",1,1,1,,1,4,0,2,2,1,none,5,2,2,28,1,1,,1,0,1,"premium credit limited",1,0,0.75,,3,other,"job was hard",,,,,,,,
-,2185,"Jackline Odhiambo",79095,"Thu-09-Apr-2020 12:10:27",1,1,1,,2,3,0,1,1,1,none,6,3,2,29,1,1,,,1,1,CIC,1,3,1,,0,1,,,,,,,,,
-,2186,Judyline  Kyalo,83390,"Thu-09-Apr-2020 12:10:41",1,2,1,,2,3,1,2,2,1,none,3,3,2,26,1,1,,,2,1,"cic insurance company",1,1,2,0,3,4,,,,,,,,,
-,2187,"Phoebe Akinyi",77539,"Thu-09-Apr-2020 12:11:03",1,1,1,,3,4,0,2,1,1,7,3,3,2,24,0,1,,,1,1,"NiC BANK",1,3,18,12,0,,,2,,,,,,,
-,2188,"Mary Mugoiri",83746,"Thu-09-Apr-2020 12:13:39",1,1,3,,1,3,4,1,1,1,1,other,3,1,28,2,0,,,0,,,,4,72,0,3,other,"still working",other,,,"business expanded","business has gone down",,,
-,2189,"Maureen Agesa",80799,"Thu-09-Apr-2020 12:14:04",1,2,1,,2,3,4,1,1,1,other,3,3,1,29,4,0,1,,9,2,"Office of the MCA Muhoroni",2,4,,0,0,,,5,,,"Interuction skils have improved",,,2,
-,2190,"Regina Mutunga",86366,"Thu-09-Apr-2020 12:15:32",1,1,1,,1,3,4,2,1,1,other,3,2,1,23,0,0,,,6,2,"finland embassy",3,3,7,,3,1,,,,,"good communication",,,,
-,2191,"Steve odhiambo",79468,"Thu-09-Apr-2020 12:15:40",1,1,1,,31,4,3,2,2,1,other,3,3,1,22,1,1,,,0,1,Britam,1,2,12,3,0,4,,,,,"i have developed my skills business wise",,,,
-,2192,"Lidya Atieno",79357,"Thu-09-Apr-2020 12:19:53",1,1,1,,2,3,5,1,1,1,5,1,3,1,24,5,1,,,0,1,"Platinum credit",1,4,2,0,4,other,was,,,,,,,,
-,2193,"Esther Wanjiku",79589,"Thu-09-Apr-2020 12:20:16",1,1,5,2,0,5,0,2,1,1,none,6,2,2,23,0,0,1,,,,,,,,0,,,,,,,,,,,
-,2194,"Maloba Anne",80372,"Thu-09-Apr-2020 12:21:02",1,1,1,,3,4,4,1,1,1,3,5,3,1,35,2,0,,,3,1,"meru water",3,4,3,0,4,other,"was given a contract",,,,,,,,
-,2195,"Terry Akinyi",81976,"Thu-09-Apr-2020 12:21:53",1,1,5,2,0,5,0,2,2,2,none,5,2,1,25,0,0,,,,,,,,,,,,,,,,,,,,
-,2196,"Michael Nderitu",81996,"Thu-09-Apr-2020 12:22:58",1,1,3,,1,3,2,2,2,1,1,5,3,1,27,6,0,,1,1,,,,2,0,,2,,,6,,,,,,,
-,2197,"Winnie Edube",77978,"Thu-09-Apr-2020 12:23:04",1,1,1,,3,3,4,2,1,1,1,1,3,1,26,6,2,,1,0,1,Liberty,1,1,4,,3,,,,,,,,,,
-,2198,"Jackline Odhiambo",84691,"Thu-09-Apr-2020 12:24:11",1,1,1,,1,3,4,1,1,1,7,3,3,2,29,1,1,,,0,1,CITYWALK,1,4,6,1,2,3,,,,,,,,,
-,2199,"Maureen Agesa",80895,"Thu-09-Apr-2020 12:24:15",1,2,4,2,0,4,0,2,2,2,none,6,2,2,28,1,0,,,,,,,,,,,,,,,,,,,,
-,2200,Mary.Muthoni,77851,"Thu-09-Apr-2020 12:25:13",1,1,1,,0,3,3,2,1,1,7,2,3,2,32,6,0,1,,0,1,"platinum credit",1,3,,0,0,other,"still working there",,,,,,,,
-,2201,Judyline  Kyalo,86530,"Thu-09-Apr-2020 12:28:43",1,1,2,,1,4,1,2,1,1,none,5,2,1,24,1,0,,,1,2,"carnivore hotel",3,2,1,1,1,2,,,,,,,,,
-,2202,"Phoebe Akinyi",82889,"Thu-09-Apr-2020 12:30:12",1,1,2,,1,5,0,1,1,1,7,3,2,1,22,0,1,,,1,1,"prudential Insurance",1,0,2,0,0,,,,,,,,,,
-,2203,"Terry Akinyi",77963,"Thu-09-Apr-2020 12:32:29",1,1,1,,2,4,0,2,2,1,2,5,3,1,26,4,1,1,1,4,1,"NAIROBI SEVENS",1,4,,,0,5,,,,,,,,,
-,2204,"Mary Mugoiri",83152,"Thu-09-Apr-2020 12:32:31",1,1,1,,3,4,0,2,2,1,none,5,2,2,27,0,1,,,0,1,Britam,1,1,4,5,5,other,"paid on commission",,,,,,,,
-,2205,Mary.Muthoni,86173,"Thu-09-Apr-2020 12:32:51",1,1,4,2,0,5,0,2,2,1,none,5,2,1,25,4,0,,,,,,,,,,,,,,,,,,,,
-,2206,"Maloba Anne",85387,"Thu-09-Apr-2020 12:33:04",1,1,4,2,1,5,0,2,2,1,6,3,3,1,24,4,1,,,,,,,,,,,,,,,,,,,,
-,2207,"Esther Wanjiku",80527,"Thu-09-Apr-2020 12:33:58",1,1,3,,1,4,0,2,1,1,none,6,2,2,24,0,0,,,6,,,,2,6,0,0,2,,,,,,,,,
-,2208,"Phoebe Akinyi",81654,"Thu-09-Apr-2020 12:38:17",1,1,4,2,0,4,0,2,2,1,none,6,2,2,30,4,0,,,,,,,,,,,,,,,,,,,,
-,2209,"Steve odhiambo",80548,"Thu-09-Apr-2020 12:38:57",1,1,1,,2,3,4,2,1,1,7,3,3,2,24,1,2,,,0,1,"sanlam insurance",1,4,12,6,0,other,"health problems",5,,,,,,,
-,2210,"Regina Mutunga",83914,"Thu-09-Apr-2020 12:41:29",1,1,4,2,0,4,0,2,2,1,none,6,2,2,27,3,0,,,,,,,,,,,,,,,,,,,,
-,2211,"Maureen Agesa",78143,"Thu-09-Apr-2020 12:44:30",1,1,1,,2,5,0,1,1,1,other,1,2,1,23,0,1,,,1,1,Sunlum,1,3,3,1,2,other,"Working conditions were tough one had to look for client and the Unit manager was harsh",,5,,"Skills in communication and entrepreneurship skills",,,,
-,2212,Mary.Muthoni,81272,"Thu-09-Apr-2020 12:46:41",1,2,3,,0,3,2,2,1,1,5,3,3,1,23,3,0,1,,3,,,,2,,0,1,other,"still have my own business",,,,,,,,
-,2213,"Esther Wanjiku",78077,"Thu-09-Apr-2020 12:47:19",1,1,4,2,0,4,0,2,2,2,none,6,2,1,25,2,0,,,,,,,,,,,,,,,,,,,,
-,2214,"Jackline Odhiambo",82332,"Thu-09-Apr-2020 12:47:54",1,1,1,,1,4,3,1,1,1,none,3,3,2,24,3,0,,,1,2,TEACHING,3,3,12,0,0,5,,,,,,,,,
-,2215,"Maloba Anne",84308,"Thu-09-Apr-2020 12:47:55",1,1,1,,3,5,0,2,2,1,none,other,2,1,25,1,1,,,2,1,"wool work",1,4,6,0,0,other,"went college",,,,,"cant go to college",,,
-,2216,"Lidya Atieno",85844,"Thu-09-Apr-2020 12:48:39",1,1,3,,1,3,2,2,2,2,none,1,3,2,30,2,0,,1,0,,,,2,36,,2,,,,,,,,,,
-,2217,"Erick Munyao",85294,"Thu-09-Apr-2020 12:48:56",1,1,1,,1,3,4,1,1,1,1,1,3,2,28,5,0,1,1,2,2,LPU,3,4,,,3,,,6,,,,,,,
-,2218,"Terry Akinyi",81398,"Thu-09-Apr-2020 12:49:14",1,1,1,,3,3,2,1,1,1,5,2,3,1,22,7,1,,,1,1,JUBILEE,1,2,0,1,3,5,,,,,,,,,
-,2219,"Michael Nderitu",82225,"Thu-09-Apr-2020 12:50:04",1,1,1,,1,4,0,2,2,1,none,6,3,1,25,1,1,,1,1,1,"jubilee insurance",1,0,6,,0,other,"it was hard to bring clients",,,,,,,,
-,2220,Judyline  Kyalo,83343,"Thu-09-Apr-2020 12:50:25",1,2,1,,2,3,1,2,1,1,6,2,3,1,23,1,1,,,1,1,"kenindia asuarance",1,2,6,0,0,other,"still working at the same place",other,,,"mental growth how i reason out after the training has improve",,,,
-,2221,"Phoebe Akinyi",86187,"Thu-09-Apr-2020 12:51:25",1,1,1,,1,4,0,1,1,1,none,6,3,1,25,0,0,,,1,1,"working in  an electronic shop in Lang'ata",3,2,8,6,0,,,,,,,,,,
-,2222,"Mary Mugoiri",78886,"Thu-09-Apr-2020 12:52:24",1,1,1,,3,4,0,2,2,1,6,5,3,1,23,0,1,,,0,1,"jubilee insurance",1,0,1,0,0,4,,,,,,,,,
-,2223,"Steve odhiambo",80085,"Thu-09-Apr-2020 12:52:30",1,1,5,1,3,4,0,2,2,1,2,3,3,2,24,0,0,,1,36,2,ECD,2,2,12,,0,other,"Went back to school",,,,,,,2,5
-,2224,"Esther Wanjiku",78805,"Thu-09-Apr-2020 12:54:38",1,1,1,,1,3,-98,2,1,1,other,3,3,2,35,5,1,1,,0,1,"Pioneer insurance",1,-98,,0,-98,other,"still working there",,,,confidential,,,,
-,2225,"Winnie Edube",77698,"Thu-09-Apr-2020 12:56:05",1,1,1,,2,4,3,2,1,1,1,3,3,1,30,3,1,,,0,1,"Tic insuarance",1,1,3,6,3,5,,6,,,,,,,
-,2226,"Maureen Agesa",81201,"Thu-09-Apr-2020 12:56:18",1,2,1,,1,4,0,2,1,1,6,5,2,2,28,3,0,,,1,2,"Oive restaurant",3,2,6,0,0,5,,,,,,,,,
-,2227,"Erick Munyao",85715,"Thu-09-Apr-2020 12:59:05",1,1,3,,1,3,1,1,2,1,none,other,3,2,30,6,0,,1,1,,,,1,7,,2,,,,,,,"Salonist. i t depends when client calls",,,
-,2228,"Terry Akinyi",84532,"Thu-09-Apr-2020 12:59:35",1,1,1,,1,5,0,2,2,1,other,6,2,2,25,0,0,,1,12,2,CLEANSHELF,3,3,12,,0,4,,,,,"PAID SCHOOL FEES",,,,
-,2229,"Maloba Anne",84776,"Thu-09-Apr-2020 12:59:53",1,1,5,2,0,4,0,2,1,1,none,5,2,1,26,3,0,1,,,,,,,,0,,,,,,,,,,,
-,2230,"Esther Wanjiku",78017,"Thu-09-Apr-2020 13:00:55",1,1,1,,1,4,0,2,2,1,5,5,2,2,26,1,1,,,0,1,britam,1,0,1,0,1,5,,other,,,"started another course",,,,
-,2231,"Michael Nderitu",79625,"Thu-09-Apr-2020 13:04:41",1,1,1,,2,3,4,2,1,1,5,1,3,1,29,3,1,,1,1,1,"sanlam insurance",1,0,3,,3,other,"Didn't reach target",7,,,,,,,
-,2232,"Phoebe Akinyi",79008,"Thu-09-Apr-2020 13:07:18",1,1,1,,2,4,3,1,1,1,7,2,3,1,25,0,1,,,1,1,"JUBILEE INSURANCE",1,1,3,,0,1,,,,,,,,,
-,2233,"Regina Mutunga",86573,"Thu-09-Apr-2020 13:07:22",1,1,2,,2,3,5,2,1,1,7,2,2,2,23,0,1,,,0,1,subway,1,3,3,1,0,5,,,,,,,,,
-,2234,"Jackline Odhiambo",85336,"Thu-09-Apr-2020 13:08:09",1,2,1,,2,3,8,1,1,1,5,1,2,1,27,1,0,,,0,1,BIDCO,3,5,24,,0,1,,7,,,,,,,
-,2235,Judyline  Kyalo,83242,"Thu-09-Apr-2020 13:10:30",1,2,4,2,0,4,0,2,2,1,none,6,2,2,25,3,0,1,,,,,,,,0,,,,,,,,,,,
-,2236,"Terry Akinyi",83588,"Thu-09-Apr-2020 13:21:19",1,1,1,,2,3,4,2,1,1,none,3,3,2,24,0,1,,,1,1,BRITAM,1,0,1,,3,1,,,,,,,,,
-,2237,"Terry Akinyi",81658,"Thu-09-Apr-2020 13:29:21",1,1,1,,1,3,3,2,2,1,7,2,2,1,23,3,1,1,1,3,1,BUSINESS,1,3,,,0,,,,,,,,,,
-,2238,"Terry Akinyi",83882,"Thu-09-Apr-2020 13:36:06",1,1,4,2,0,4,0,2,2,1,none,5,2,1,28,6,0,,,,,,,,,,,,,,,,,,,,
-,2239,"Terry Akinyi",78849,"Thu-09-Apr-2020 13:44:07",1,1,4,1,3,2,3,2,2,1,none,1,3,2,27,1,0,,,3,1,"THE MUG",3,2,9,12,0,2,,,,,,,,,
-,2240,"Winnie Edube",81435,"Thu-09-Apr-2020 13:53:33",1,1,1,,2,3,2,2,1,1,none,3,3,2,33,2,1,,,1,1,"jubilee insuarence",1,3,6,0,0,5,,,,,,,,,
-,2241,"Terry Akinyi",83772,"Thu-09-Apr-2020 13:55:06",1,3,other,2,0,4,0,2,2,2,none,6,2,2,21,0,0,,,,,,,,,,,,,,,"PERSONAL REASONS",,,,,
-,2242,"Terry Akinyi",84062,"Thu-09-Apr-2020 14:04:06",1,1,1,,3,3,6,1,1,1,other,1,2,1,26,1,1,,,1,1,TELKOM,1,3,12,1,0,5,,5,,,"PAID OWN SCHOOL FEES",,,,
-,2243,"Winnie Edube",78908,"Thu-09-Apr-2020 14:06:53",1,1,1,,6,3,3,2,2,2,none,4,3,1,0,6,1,,,0,1,liberty,1,1,6,1,3,5,,,,,,,,,
-,2244,"Terry Akinyi",80863,"Thu-09-Apr-2020 14:23:19",1,3,2,,1,4,3,2,2,1,1,3,2,1,22,0,1,1,,0,1,ALEXANDER,1,3,,0,0,2,,4,,,,,,,
-,2245,"Maloba Anne",79927,"Thu-09-Apr-2020 14:47:24",1,1,1,,10,3,4,1,1,1,1,3,3,2,22,4,1,,,2,1,"sanlam insuarance",1,0,2,,4,1,,,,,,,,,
-,2246,"Winnie Edube",85190,"Thu-09-Apr-2020 14:52:56",1,1,1,,2,3,6,1,2,1,2,2,2,2,30,2,0,,,0,2,AAR,1,4,11,4,5,2,,7,,,,,,,
-,2247,"Maloba Anne",79273,"Thu-09-Apr-2020 14:56:12",1,1,1,,1,3,2,2,2,1,1,1,2,2,29,3,0,,,5,2,"tropical timber company",2,2,1,0,2,other,0,2,,,,,,2,
-,2248,"Winnie Edube",81355,"Thu-09-Apr-2020 15:06:55",1,1,1,,2,4,0,2,2,1,5,5,3,2,25,2,1,,,0,1,"PREMIER CREDIT",1,1,4,66,1,,,,,,,,,,
-,2249,"Lidya Atieno",86183,"Thu-09-Apr-2020 15:07:26",1,1,4,1,1,1,4,1,1,1,none,1,2,2,27,2,0,,1,6,1,Copia,3,4,12,,4,,,,2,,,,,,
+﻿status,data_errorMessage,data_numSent,data_totalAmount,data_totalDiscount,data_responses_0_amount,data_responses_0_discount,data_responses_0_errorMessage,data_responses_0_phoneNumber,data_responses_0_requestId,data_responses_0_status
+success,"A duplicate request was received within the last 5 minutes",0,0,0,,,,,,
+success,"A duplicate request was received within the last 5 minutes",0,0,0,,,,,,
+success,None,1,"KES 5.0000","KES 0.2000","KES 5.0000","KES 0.2000",None,+254710726755,ATQid_7dd5e05930ca90631c9e88e57763339f,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725096793,ATQid_0a78d0bb6ccb7f7b121479030614265b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254728977598,ATQid_404074cd3a38ca4881a5c0b740a98b35,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254708559366,ATQid_1d97549c1fcf393e7b1db36f33b384ca,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254722686573,ATQid_419075d1627c3fffe4b34b53739918a1,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723919548,ATQid_b281f7db8e31fb2ef33c983fb7025122,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254724247803,ATQid_cd3626adea118ceb2c0b6b44c1beb8bf,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254743857746,ATQid_2a051adeda9b0d9322d9d1b7e4af8991,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254759089249,ATQid_ebd1740982be174bbe23d08e42bc466a,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254715264429,ATQid_3786ce705b6f15db2101d76f500ed9a2,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254740153617,ATQid_b99c40f54d65849e6fd6ab8868719d1d,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254791080025,ATQid_2d0d2791293adfb5264de46932e90ec8,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254710547634,ATQid_b3b954908346f990ed65a01abff84565,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254716316315,ATQid_671837a3426ea706a497600bc2004bc9,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706693139,ATQid_2a702b64a36e61d81b7bdabae5243eea,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254704276794,ATQid_1376133776de20abafd2571c01145aed,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254707146420,ATQid_8b6b429deb612ab191737cd802f5ee3b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723091030,ATQid_610b4f0190b86931ccfcf58d21a56ee4,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254796567202,ATQid_8c511bc68047f7b580d24ed710df856b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254727121703,ATQid_8283cc609159cce3f4f2388fc79905eb,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720713676,ATQid_71205304c25f293609fd780f4315f6ad,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254796221625,ATQid_a672226478401a05496b5799f5e476bb,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254701735707,ATQid_eb7961ae3216ccc05eec6f90918dad65,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254743544618,ATQid_58901fece535096c896ddac619aef77e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254724370607,ATQid_82f508fc3b74e650bcd07bc1441067c3,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254718526497,ATQid_b05f6c08dc360e5284d708a8c083080c,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706219042,ATQid_4f8804bbbedcb48d8cb51e5d7c25ea1c,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254719235094,ATQid_943ca8abe91a77f1c8f0f9a8b52de25b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725786867,ATQid_8fb50f0748de385bdb3154d5bd8494c8,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254796796517,ATQid_cbf3c2cf4645397bbf328edbe3b2b574,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254717597285,ATQid_51802aba7d445e6ffaad66f4b7a0ca31,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254717317933,ATQid_3c6d9abad5eaaad38a8dc19bc83279c5,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254724712907,ATQid_9c59c8a74fdbed3cfddc72a6ffe8cc81,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254726701813,ATQid_d01db78007754791421d213c6d61a999,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706593950,ATQid_65991be01bde5c06ca2adeaa40c5b48b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254729272542,ATQid_1ff74d2a0a32148e4fdc7ecd747777e6,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254727420517,ATQid_94749adff1cb6f1043b212555feba4fe,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720782867,ATQid_acda0227875ef6198b3b1c237e6d35f5,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254731228909,ATQid_e490495a83b954302735c53875773e37,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254718798569,ATQid_1937592e2ba5d0c7c7c20ebdd495aa20,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254741482012,ATQid_1011f1f3ff70ad1994f77780d358f35d,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254716207380,ATQid_89af33d8d0f839c67fd2f1be5b05975b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254727219551,ATQid_9fb5091c50c3ec321dee83d6e38b1774,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254727585069,ATQid_8a0792c058a19a5419bb5b7131b324cf,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254790901028,ATQid_501b9b86a4b271ca5673dc83e8ecb0eb,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720722554,ATQid_ed78fa7e51f1caa624f5a8a7c2739820,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254702285835,ATQid_bb62aa57fc6748dc46b082c52afc6c1e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254713232623,ATQid_bd41c976333bcca0027e71cf094be86b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254726583941,ATQid_bf6de1989135b9cd9c76c29eb6f41abb,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723718684,ATQid_850461a5f25860c5084202bbbf2e0cd7,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254795488516,ATQid_93a867bbaef61439cd1fd19085f66c6d,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254707986835,ATQid_673d6f31108feb123b3f82b27eefbfe5,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254790465874,ATQid_2bd514e1d197a7218472bc6cc21941d5,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254737683573,ATQid_aad709528bc879e37d20486a49eac3d0,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254798295149,ATQid_35b19ca27a4d461aa89a6db60b9757c8,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720628132,ATQid_a499b2c48d2ff1967c83d1ec8769f854,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254728426060,ATQid_b02fff37d1b07f9034bd332f800c2bb5,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254731346109,ATQid_6d5cd300d6c3987b6d2a9cd1514586e7,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254710464748,ATQid_03329e6d0b29859ff22fac555108ff65,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254722986955,ATQid_0636094a811f89a00c230ecfe9fa415b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254708199243,ATQid_e3f80574f253be602664fa5df11ef637,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254705308816,ATQid_3347de601c0b42c81da4bf8b53261b01,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254726645079,ATQid_543b012d324cfcc1c4ab44c1f02c4955,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720559251,ATQid_b119c48b6e3751c15c27ccd0a6f6fb0d,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254719238540,ATQid_7341b0625839a92b323a4e9eecf026f6,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254795515740,ATQid_97d2de4d2a55296a205a06a04d329080,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254715253778,ATQid_a49fe861aff6298df4803235656bbfb9,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254708348929,ATQid_1f811a8a6d3a9ae26a8e3ae9540e4dbe,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254727409846,ATQid_19e0a345aa89024d1c4224f05740c12a,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720300391,ATQid_74a15a077c8aeaae00a8b36b72fb0001,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254728068340,ATQid_a48dc362e5f69495d264760cd7746ffe,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254792104562,ATQid_008241847ad7e17855e2efc1aba1345e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725664617,ATQid_1b61ee12fe8aa7232c824e3b760c695c,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254791171875,ATQid_3f733632a88d1b88a34df80e6199cf87,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254715242892,ATQid_e7cacb5166b9376214e1536b2c6380f2,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254716422372,ATQid_a50e7c4c6f23caacc6f7c841999fc130,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254705469584,ATQid_23277b0b5d668e2d0671f10da5a81d91,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254791434161,ATQid_2aee1340913b1c15a7edd10c73dfd1b7,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254724134845,ATQid_36b7557fff7bcffe13235fc83e8aebe1,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254726652400,ATQid_b1b754f1abbd010bd29bb47d5802e263,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254729954776,ATQid_80b81a5a560d0090de162f70fb21dbcc,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720712817,ATQid_c206f5d351ced718744117853998a0fa,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720346985,ATQid_dde6d29074f730216f592a4dfe90a930,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725038863,ATQid_2ffe2e3949c64ce764c111223494b7e9,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706655376,ATQid_70935e8ae157c932180b9c5d9f612e4b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254755894372,ATQid_b4b1439ec54204b6d90b428a75901e5d,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254705500934,ATQid_3a2f19a3dbeea8ae39b06dbb16962d58,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254722749173,ATQid_3c82c9f4e7daa12e0bf0b53393f814ca,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254701386984,ATQid_df20b494a14ad5ac3b7039089f3c36d4,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254714957782,ATQid_f8b28833fd48734758e13f206054fd1c,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254729098836,ATQid_b104e591411bbc8235bde7c94b852f7d,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254702052239,ATQid_b467bd7327ac94d4e950ec29b8e21397,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254700527948,ATQid_352d3154ebfe8aa786ebef5568c27495,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254716038749,ATQid_236eb8f81c6ae140cb632dbd6984e0d4,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254715485986,ATQid_87713c62c2e193d25e003e7f4c6f6ddc,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254705590324,ATQid_6618602f41eaca012ff74b400f50ec7f,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720838051,ATQid_78686d99c13f9ddcfee6acb5798d0afa,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254729270454,ATQid_d7b8e828a84a6ac11297fa66ade72cc3,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720727679,ATQid_fc64f9a1e86ffd8048024ceba09a4e7e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254790363934,ATQid_7b913317ec1583ef41b42bcb94faeefc,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254742370624,ATQid_465b4614fd5ba34391344a2d0af99fc1,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254724684575,ATQid_f77835268297067519724c05dbb5dcd7,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254707932796,ATQid_d02c08ced34174ca99ed05ab318fb346,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254711857136,ATQid_4854eccbf3f47e2bffe6ac2bfe18795d,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254717623675,ATQid_1a615850e2bd30c03611ff34c1a619e2,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254707829738,ATQid_60ac3f76fca4c74c42a192d3d9e7b455,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254715082171,ATQid_83927a09cff81dac83506d34ad4e60f5,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254726054971,ATQid_26f29a23b02791ce250b40c605372816,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254799538882,ATQid_b08858c84efd293976463ce87b0aa852,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254743798666,ATQid_f28b1830d8e22e2a9f038ab7880b61e8,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706268961,ATQid_85535544eb0e18c771b9b822971ea05e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254790537897,ATQid_f2d243c63312d65089bc082e7a175578,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254717345169,ATQid_8db737fec4fc873fcbae88faadc78016,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706801276,ATQid_554efde05ed7d831affdc1b82db6bd7e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725011894,ATQid_86ac23b7643752ae4b6ce695a1063a0f,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254742101125,ATQid_6ccbb87c9bafde9c9e542791ebfb7423,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723983815,ATQid_876cfcced92138936055f2fdc47928b0,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254721491078,ATQid_f02d4c9874422c8328a55a50f56ab9c1,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254758055527,ATQid_59a91f6987d41bc22c07daf289175afb,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725034891,ATQid_d59b4a682936e0bbf5a0d92545b36677,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254796126379,ATQid_d3f15ebe31e1cf98cc6ad3f03f16879b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254715093982,ATQid_caecb336ea67c2819d4ea64b74847bac,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254717194218,ATQid_0a9f673c1e8c64f6ded0e7b1b8adbb97,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254742640450,ATQid_88c2b451b536daf8ee7abf3027035c4b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254714831245,ATQid_74a168af008fd7d2a98e46446ad809df,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254714833413,ATQid_6007f8567a0cf2de23ee90e6ae6c4397,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706511369,ATQid_4462e75a58f8c2a629db1bca663696af,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254729932226,ATQid_1880531b53cbb919c843b53cf9cac6c5,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254796603949,ATQid_39a99ea438b4775e9d4a76de14bb7640,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254724244193,ATQid_9ab1a668086c2e0abcfe38506b483c7d,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254717324554,ATQid_ad7ad4be3042a26b689a0132b1a4afd9,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254711314095,ATQid_2e180d809b3c73a3a79e479702561638,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254717745539,ATQid_d4bd8036326bd0f3f503ed85cd77c969,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723330745,ATQid_474103a04345c4aa36a91ddd2a9f5d04,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254714695625,ATQid_0b9db01e0f38d3c7331359ebc5f2c6e5,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254718957997,ATQid_2ab9e2302f2d7c26917e297aff16cd54,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254727836682,ATQid_c857ac379aa9c223597dc788e17dce83,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254743682501,ATQid_e2174c80b347772f7fa5c99473cc978c,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706701284,ATQid_0ad63823988c570c50ce1032bcbe2ce5,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254721913118,ATQid_19fb239daf5c275ac57e3710eed0027d,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725749550,ATQid_9590b1026f7bf9965a33ce0711136339,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254743756005,ATQid_d697446661103833f6099705d7299c05,Sent
+success,"A duplicate request was received within the last 5 minutes",0,0,0,,,,,,
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254727081516,ATQid_67d0186fa7c9846ddcb4ff32adcce2fe,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706219112,ATQid_bf57a5ceef46c534720a102ea9658494,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723578436,ATQid_53d7780ed3317ce9fc81260d4d75234d,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254700623309,ATQid_9e7e6cdc45080e9d1d753f6cef1a366f,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254713111018,ATQid_d2cdd4d035a0266dc11930a895d63c66,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720961402,ATQid_5ee8066cd8b4dce8afcff127f18d9d46,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720608181,ATQid_215f04bddfa4ae66e499537df76db267,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254790478262,ATQid_e4cd18f4a9b6d74c8915487e3bb4c239,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254743305173,ATQid_6b66e6eecc2ade26d5686791b93cd3ca,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254722249398,ATQid_dd7903136218a7a3c35af8b799b3b933,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254741768515,ATQid_c4a1a9c495b805acb3e1dab6629cbbd5,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254712589069,ATQid_e53427ec5f09733ac8a4597d67088a5b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720366058,ATQid_464abcba1eeb173d84d3e7ba089fd616,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254705087243,ATQid_decd27e265bccbc0c7c514dd9d3bc4f2,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254786105356,ATQid_5f15d7c374897ddb90329138ef4bf126,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254727866751,ATQid_5b1981de978f67ed8f6ac280773b1820,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254716047025,ATQid_2de1267d5d8ed228da6157e3d0adf542,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254705602096,ATQid_b99411be3f2e5b2e444a8558c7c86857,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254715169017,ATQid_28d29348e40da48f44508a11b4758e03,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254721351434,ATQid_3bf1ccdc2641a8d430a6d77fbd2e939e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254704973098,ATQid_e61d195f4fd1cf39c4388ee5e058a67e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254722336722,ATQid_707bcdc8ecb0dbaf0f549d55071f2020,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254707077499,ATQid_a585f72d66d91d75ab65a16a3068d917,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723821138,ATQid_02e4e88407eda0a96db3d05d2533bfdd,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725269237,ATQid_81135e0cef463e6ac3f57551e9d792c3,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720440529,ATQid_016c1f4781bf23209917fbe4e149dc6a,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254717865992,ATQid_b9350b75c5bba6507106593b2abf7f30,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254710878120,ATQid_57885d24ee1d410c3ed23e4237b960e5,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254703404750,ATQid_f4c5ec252aecb0d650794fe78513de94,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254714567267,ATQid_4b77376ce94ea623a777a007de30d7c0,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254728946979,ATQid_4549be255a02935e0e2388f35b97ffee,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254701931981,ATQid_4c2ad0cece8a8d7ac83a56b15df07d99,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723678173,ATQid_d8ca867b80cf6fd52979b155adcc4f7b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254757439663,ATQid_17b49b74555ae018050e896c3e3795c9,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254799967708,ATQid_13f091d215dbbc49dd26e1632040e9a1,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254710340473,ATQid_12b11826b20f2dfb05a3439142c861e8,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254729552496,ATQid_8dacae246942002a3932269bfe4d5896,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254710289717,ATQid_f4ca439a8219703a74e08d878077bced,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254701391852,ATQid_1063094817d62a0d54e084b801c88477,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254718300046,ATQid_fed33dff8d303829d6ec92ae2dd99eef,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706963025,ATQid_05c39eb3d4752576784ef17784b74ac2,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254726686789,ATQid_dffb05dbd0b3fde1530a5375229c4497,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254797049831,ATQid_86fe9df83844be808902203cc454f4ba,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723603920,ATQid_fc11c89be685b9f9f50d8b2e87f7a017,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254740245739,ATQid_e36985c6ec7b9040e6986b66fd6c770a,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720535037,ATQid_e307f0033d0d5d50f661247147d1afc7,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254770521237,ATQid_4405f8025a1945438df8da64cf439606,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254716220973,ATQid_2bd0961556b3ca56c387cdde14ae2f2f,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254712651053,ATQid_117cfed073ac593e2accca17a02a2526,Sent
+success,"A duplicate request was received within the last 5 minutes",0,0,0,,,,,,
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254717387479,ATQid_5dc661200ae163866a30b6bb5bbe9e79,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254734403681,ATQid_7aaaf064ebc1b29cf5ef3f89ab2b86d0,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254726216073,ATQid_bc9e970688e2e0fef262a50d92f00e3c,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706000748,ATQid_e980650b417c38029b105e3ea7a77abc,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254798863165,ATQid_95d36d891d44899ffd85f08bdeebf6fd,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254729995963,ATQid_4361e213945f25936f6107cd2c0fa102,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254721740577,ATQid_a8ecabd7245609634f82c34ba706d573,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254727788925,ATQid_554bea8089821edf74efccc00d4f1495,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254735342670,ATQid_71e593d89b1536f79c3d138bb2fec010,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254799306370,ATQid_8a3161982c662699a47af0158504960c,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254729507328,ATQid_e66c30fbc56c53b1dfe85929aec3ad82,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254728427218,ATQid_1476dbb13c84b0975e651d8054a77d9c,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706080106,ATQid_53ddd9e589d2305c69e98f06426a38b8,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723260657,ATQid_46c14601287ee5fb2abd61fe52110bde,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254712516050,ATQid_9952da8414bd9ef2ec7c16080857243e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254712437096,ATQid_4708265e4cb696866b5ef39ec9ffa2fc,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725146292,ATQid_a09ce5f7f88c40470e0053d366d7cc51,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254715059789,ATQid_67d9934b56f725001fbf57c614f30773,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254792563754,ATQid_b2b2c1d3204c1f9f19572d05d4f5c78a,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254742574559,ATQid_806dd1763b926adda4930ee2fd25e08b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254704012444,ATQid_3d249e88630fe732a827f0285b867571,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720492688,ATQid_ad8e5055162cffc629c7a8819a71eb0b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254707913108,ATQid_714d2c657d9fca0fd191ec6c5ae497ba,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254727931134,ATQid_c77932959c71f47c8257b5d93adee57d,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254722100472,ATQid_ccced218beb13e9959741d84edbd9670,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725690231,ATQid_5ae886c5d223f938303569895740e066,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725091181,ATQid_6118e564b49f60ba9bfa64f266689a95,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254726927821,ATQid_7812a12cb397720c5047e20296cfee05,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254743037765,ATQid_558e820c180e562672311f4fa32995d9,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254705840147,ATQid_f1af5b46d675ba90b4787b5dcf20d33c,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254728132765,ATQid_dfe44196b967ec99d9b939c43ac01ef3,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254724230416,ATQid_ae08e0c6d1c239b4127e2d45afae42c3,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254792393801,ATQid_083e8b21560ff1b6d359bc62ce2d1497,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254737931486,ATQid_22f68bfddc447f6173db5b84fe0b6083,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254708507447,ATQid_0007ed5aa6ea7191fe33b977bff67952,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254717002937,ATQid_0eda6ae9b25b9b2c72842fcae0faca37,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720792292,ATQid_1fd4497e9bfa5067a63d144830e7e6ba,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254713086288,ATQid_802de9aa75846c4e555314bb13a2a951,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720022745,ATQid_21f237bd129c9a26a15a63636253a215,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254719675993,ATQid_36a9d88dec2a010d96025fe80994a79e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254710208647,ATQid_a221fc8e122473d0bbf04e63fbd6cfad,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254714086573,ATQid_31fb652079633bcc701faf9b334f0fb3,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254728006678,ATQid_36210d358e5fbb237483d48017eb8b77,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254724804820,ATQid_6e76a1e6f537aa0677797681f7cdc615,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254719473324,ATQid_e53dfeb60641cba15b47c353a77f03e6,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254703922275,ATQid_217bcd69abcb21199f91f9c486cb09a3,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254713334985,ATQid_0db28485aecbaacd8e5a1bb287c6e047,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254703298374,ATQid_14eec384b9e68f0a9bba2836b7ac1ccf,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254790758171,ATQid_c665da1049b14a917da5501bd2966c7e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254713628460,ATQid_42b75bdc6377dd506d155b093b9e33eb,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254797621141,ATQid_0282b87df72c8e7e058f5d1ad6926e7c,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706933639,ATQid_1689d26d073b5346b963cb81c0ac21f7,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254708912860,ATQid_7e77631ffd8f2f56b72d6a3ba6c66268,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254712455779,ATQid_f2ed56ee973c2d34bca9da51a354840a,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720707368,ATQid_eb8f8ee6d5f1817be8aa982388f32a8d,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254719304864,ATQid_11f2a8d20d479aff4e609e1bd911414f,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254724771492,ATQid_f0976db9078bee77160e32243e465916,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254715592047,ATQid_f7eaaae48747e045f9e506ad770c3bc4,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254710298975,ATQid_682c644b5b65ebeb8d62103fe65186cc,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254793776894,ATQid_396bef89db5877dec5e11804710d0979,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725910469,ATQid_79173c25f68d04b8d2411094c454fecc,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720945679,ATQid_c22edd364fd2a0ed6e4cac9061fa796b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706730186,ATQid_6cc2e8f1ea5e698033d77946a294bb6a,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254713118056,ATQid_4664014a747b9ebde3b58e3810f56b16,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254724939584,ATQid_e0088807abbc1ca4044307e0eda32ee1,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254700323373,ATQid_5ebc94ec7227b1008a3a99c5ddbd4ac0,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706813957,ATQid_6891b5ea2ad087de78769fed37dc0979,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254708830276,ATQid_c35a9b4846e13fa006cb886f1296fedf,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254710570206,ATQid_1f28ca1fa832afb73748923c665edae3,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723308295,ATQid_027f51af8ca1221e1b2dfeb98dea18e1,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254724961834,ATQid_10f1683466464268290edbc3e823f045,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254701263511,ATQid_5b2c66bf05db7ba2dc71d6390603e559,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720838875,ATQid_4cda049686c1187f36d0e2b7427c3049,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254748787784,ATQid_97f4d08455c1f83b09bfa63a60cb376e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254741889390,ATQid_40a7f984f6922b5b9b4afa8087856edd,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254743060784,ATQid_32e449353e042d8927c9b5303fc7fac3,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254722677069,ATQid_5716e5b8ec247d38d6698d1c04b37cdd,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723304770,ATQid_b5c7d98e5dc3321e0e16fb8d09e374e9,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254727271405,ATQid_c2938c7e9fe5d4e2b054114baa8867dd,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254716182333,ATQid_f8d49e141579441e45618fc5e491543c,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254716298691,ATQid_879c343e0719fa6bf4764d05c23430e2,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254714030733,ATQid_c4ac64161578f56cd0a642d2cbfe35be,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254724823233,ATQid_0b6f49591a982dcad50242b4c9fb592c,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254710961984,ATQid_a506f234a4d30dacaa067cd4230169cc,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254716955563,ATQid_22787ac02a6bcb0a5a2c565d6660f2f7,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725882493,ATQid_1a4d4220458889ec385863e729a4be2f,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254702391238,ATQid_0f1674bc06d02cc6182d09cfc499a6ad,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725222861,ATQid_2597ee9db4ae3681bc4ad0a0ecd06b82,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254726904999,ATQid_bc3b57995a18165f60d25692bf44d780,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254792800959,ATQid_bf9a9e94fcec17eb492f8f7d21df1f18,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720341135,ATQid_6eb350e4024fbca1e640348c136a9ecc,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254726389846,ATQid_483c6797a8b233cfb91a8a3c3aea37c4,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254708799179,ATQid_0336c7e295f4a39e78a215d21ea23812,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254718347361,ATQid_dd2d2d3a6354284c67c32a5cf21c7ff3,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254758913131,ATQid_5227f5665bb2292e0314cda0f08d7ce3,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254713768822,ATQid_b03ce7f44b1fb3b77fc1cab8839064a6,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254729501249,ATQid_4a18278948ca2ddbde38e4a5207f1913,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725797801,ATQid_da5f52d36762ffd9e77139be1d8b4afa,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254758588999,ATQid_14d5391eaeca4eae3910613355b75e36,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254707281713,ATQid_6d99dfc385a9b7963ac4f3a030a890cc,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254746544490,ATQid_82bf07c492c5c4b1eacbafee730c9e32,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723997273,ATQid_ea78b1820feec2b054a617828d04145b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254705240349,ATQid_480908072932b407382404b78adbbc9e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254700686908,ATQid_f506ac6ff29b4ccc1949cc74c6b98fb3,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725015818,ATQid_5ec94a29186fff1f66305ccc3ec28743,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254797924917,ATQid_59229d73cf09e229e79a5ca053e138de,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254724371069,ATQid_d623b755170049d2a97b73288ea9b48b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254713661087,ATQid_69e21a3055d410a6821e3c671e0cd12f,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254725617205,ATQid_e6f47adf6704a25f58c26cfd9a7ad5ff,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254721794482,ATQid_3e8b27e76237ca9ea09fedab0fcb1bf7,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254700361915,ATQid_97319a7771238049e64a9e7ad24e3218,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254717769503,ATQid_c0d83bd446fb8447cd073b262f7fb522,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254717689453,ATQid_fac0dcc2d20e9c449a11bc58d2594eca,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254721655813,ATQid_7eabc81b5437fe724e741a898ad0a56b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254719774777,ATQid_447ff42faffced811f147e95011487ed,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254714661834,ATQid_22170de79e726d667680c67714cf14ce,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254703990438,ATQid_134fc7b676810d350b39b0ef6b93c046,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254716235890,ATQid_f794fa6ea91516c1394a74935c9d5bc6,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254758824469,ATQid_98c515cf772650184a90f1ee91eb7cb0,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254745206121,ATQid_21af3a791b0d76af0dd970022b140be2,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254718858787,ATQid_1a23f4b5e53d82dedb76b5d2cf430dcf,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254740806684,ATQid_cb82b9fe6a6b4530a7fa15253289e8aa,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254704008270,ATQid_93c22b820eda971f78a65c60c04f802a,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254712093653,ATQid_413d6cc001bfc326183e3ca9d2adbe83,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254716020533,ATQid_0f9834852d0925b0542b2467aae4cc0c,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254712568601,ATQid_2edd94f55ba56b941c54a2f4bb9f9a0c,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254721355890,ATQid_4d1ae7d06dfe32e5223fac5d8ec3d3f4,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254703281256,ATQid_55f46d0a52afdbc14ebe1888374bedd7,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723418920,ATQid_f12d1de7ed9d001e8593c127840e2f2e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254728556466,ATQid_6a94f833e5450ffa2b4e37dd70ad4db2,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254701929790,ATQid_66743c31ef9555781baf63ac2b6a0321,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254712584455,ATQid_b959ec649b6f4f387a17be652b0b023e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254726097274,ATQid_d13483d2ee8c24f6c3427438fc0c8a11,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254746858845,ATQid_f9dbe6b0e45edeb705955d6f934aeedb,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254714080882,ATQid_b1a7902b3d39188a841bc5a30a0495f6,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254722205627,ATQid_33cb11ca86c78061b2bb910efccffebc,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254729008109,ATQid_1fdf655ecfbb832b509e15e83a0adc3a,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254722794611,ATQid_e841b7f0657ec46155fb950202339ae1,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254790411738,ATQid_b964b969ea1f4ca8493c51a12d3af547,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723076245,ATQid_30f2732ea32b54af7d84b524e73b07a8,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254792473137,ATQid_1125e9225762eff66e01d41ee153f8dd,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254701435326,ATQid_33f2148121a4550366454096fe3cacb2,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254724232166,ATQid_a16512955def5e25641cb2253d079712,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254714346539,ATQid_dfd3c4ca547fd0b0c5786ec45a1788bd,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254726020115,ATQid_7590b5be89683af40e72e577464d5017,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254711401845,ATQid_a221f9aa4980711d9e2ee3f3a146b103,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254714470716,ATQid_699e72c04787700530da367ee787ca52,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254795097536,ATQid_78299951f0f3a4f7dad34f61426bc047,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254728139553,ATQid_0f2c570761a55c305d710b436448b49b,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254708187433,ATQid_e309bc1ff09e89bbc21647864828f6a9,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254720373393,ATQid_1e32e7cd0196e70081ec12f4aa8a2059,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254704097376,ATQid_a8596b3c8986b5f47bb978f7129b3123,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254722623149,ATQid_731bbf6ef8c16c02724b6f963155bc0e,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254796231018,ATQid_87f3d2321e8463cb10c0716a939b46b8,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254723594867,ATQid_b21e87a3a8941d95ae1ac184b4e32f8f,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254707232601,ATQid_be0e7599ad75f69091cf9537e435e5b5,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254705671726,ATQid_cffc18055348b2b4f0681cf3ddfc7d58,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254728173918,ATQid_debeb45e6a6b537e75f7dbc49c1838a5,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254721610942,ATQid_fcd30b3f50f55b05a723d28f9e1fb094,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254727457190,ATQid_29dccef919e5441bf67601ffd680318a,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254712466025,ATQid_61d8e80b6063dd991791e5f2497b80c3,Sent
+success,None,1,"KES 50.0000","KES 2.0000","KES 50.0000","KES 2.0000",None,+254706110406,ATQid_3a0161afa117efb34776f0cd7c85979d,Sent
